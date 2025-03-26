@@ -14,7 +14,9 @@ Sophisticated snowpack models are required to provide accurate estimation of sno
 - Simulated_Output = Contains Arctic and default SVS2-Crocus simulations of snow depth, SWE, bulk density and profiles of density and SSA.
 - Code = Code to create figures including SMRT simulations.
 - Ku-band Backscatter = Pit simulated backscatter and SVS2-Crocus simulated backscatter by Arctic and default SVS2-Crocus.
+- Met_Data = Meterological forcing data for each site from the High Resolution Deterministic Prediction (HRDPS). September 2020 - July 2023 with 5 years of model spin-up (from September 2015).
 
 - ## Matlab Functions:
 
 *John Bockstege (2024). Shade area between two curves (https://www.mathworks.com/matlabcentral/fileexchange/13188-shade-area-between-two-curves), MATLAB Central File Exchange. Retrieved April 24, 2024.
+* SMRT https://smrt-model.science/ Picard (2018) https://doi.org/10.5194/gmd-11-2763-2018
